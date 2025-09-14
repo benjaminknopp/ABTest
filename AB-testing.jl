@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.20.6
+# v0.20.10
 
 using Markdown
 using InteractiveUtils
@@ -34,7 +34,7 @@ md"""
 
 In diesem Notebook untersuche ich den Einfluss der Dauer eines A/B Tests auf den Gewinn innerhalb eines Jahres. Dabei nutze ich simulierte Datensätze und klassische Nullhypothesentests für die Entscheidung über Annahme des Features.
 
-Das Notebook ist interaktiv (auch der Text): Es ist erwünscht, mit den Schiebern, aber auch den Variablen zu spielen.
+Das Notebook ist interaktiv (auch der Text): Es ist erwünscht, mit den Schiebern zu spielen (bei lokaler Installation auch mit den Variablen).
 """
 
 # ╔═╡ f33d2a8a-eed2-4ace-966d-a4760f544015
@@ -883,7 +883,7 @@ version = "17.4.0+2"
 """
 
 # ╔═╡ Cell order:
-# ╠═4d6fa4a6-8cb0-11f0-32ed-238ebc814f8c
+# ╟─4d6fa4a6-8cb0-11f0-32ed-238ebc814f8c
 # ╟─3dfee5d5-f25f-4998-b52d-72ea405fcd73
 # ╟─f33d2a8a-eed2-4ace-966d-a4760f544015
 # ╟─8276445e-685e-4c15-8c49-00d5655706dd
@@ -905,7 +905,7 @@ version = "17.4.0+2"
 # ╟─32ef0fb0-07e8-4eb4-97fa-b13af4c1b1f6
 # ╠═8e57be9a-5727-490a-8649-23d37487d13b
 # ╠═4ce6ecd5-dabf-4fcd-bb89-4e7ab0127a2b
-# ╠═dc7a8668-91a9-4ee4-a65d-c4eb439afde5
+# ╟─dc7a8668-91a9-4ee4-a65d-c4eb439afde5
 # ╟─dd26cb81-8199-47ba-be61-519f01dbe5c3
 # ╟─00000000-0000-0000-0000-000000000001
 # ╟─00000000-0000-0000-0000-000000000002
